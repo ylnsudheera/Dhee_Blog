@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Projects!"
+title:  "Projects"
 date:   2017-10-14 17:10:21 +0530
 categories: Projects
 ---
